@@ -1,4 +1,4 @@
-# Implementation of the Zavorotny-Voronovich model for ocean reflected signal DDMs generation
+# Theoretical DDM generation with Zavorotny-Voronovich model for ocean reflected signals
 
 Generation of delay-Doppler maps (DDM) or correlation waveforms (WF) for ocean reflected GPS C/A signals according to the Zavorotny and Voronovich model from V. U. Zavorotny and A. G. Voronovich, "Scattering of GPS signals from the ocean with wind remote sensing application," in IEEE Transactions on Geoscience and Remote Sensing, vol. 38, no. 2, pp. 951-964, March 2000, doi: 10.1109/36.841977.
 
